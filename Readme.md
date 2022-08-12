@@ -1,2 +1,2 @@
 GIt course
-teste de arquivo
+este é um teste de git
